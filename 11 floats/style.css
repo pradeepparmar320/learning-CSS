@@ -1,0 +1,20 @@
+body {
+  font-size:2rem;
+}
+
+.block {
+  width:30vw;
+  height:30vw;
+  padding:1rem;
+  color:white;
+  background-color:black;
+}
+
+.left {
+  float:left;
+  margin-right:1rem;
+}
+.right {
+  float:right;
+  margin-left:1rem;
+}
