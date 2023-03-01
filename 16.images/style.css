@@ -1,0 +1,24 @@
+* {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+img {
+  display:block;
+}
+
+body {
+  min-height:100vh;
+}
+
+.example {
+  margin-top:1rem;
+  padding-left:20px;
+  border:1px solid red;
+}
+
+.example .img {
+  width:25%;
+  height:auto;
+}
